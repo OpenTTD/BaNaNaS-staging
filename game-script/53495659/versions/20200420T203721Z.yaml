@@ -5,6 +5,4 @@ md5sum-partial: "8bf02f5d"
 filesize: 12927
 availability: "new-games"
 
-tags:
-- "bar"
-- "foo"
+tags: []
