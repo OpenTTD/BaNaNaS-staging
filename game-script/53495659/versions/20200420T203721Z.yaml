@@ -4,3 +4,7 @@ upload-date: 2020-04-20T20:37:21Z
 md5sum-partial: "8bf02f5d"
 filesize: 12927
 availability: "new-games"
+
+tags:
+- "bar"
+- "foo"
