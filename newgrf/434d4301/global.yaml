@@ -1,6 +1,8 @@
 name: "cmclient"
-description: "eouoeuoeauao<b>test</b>"
-url: "javascript:alert('hi')"
+description: |-
+  eouoeuoeauao<b>test</b>
+  javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+url: "javascript:document.write(window);"
 tags:
 - "<u>test</u>"
 - "aoeu"
