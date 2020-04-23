@@ -2,7 +2,7 @@ name: "cmclient"
 description: |-
   eouoeuoeauao<b>test</b>
   javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
-url: "javascript:document.write(window);"
+url: "javascript:alert(1)"
 tags:
 - "<u>test</u>"
 - "aoeu"
