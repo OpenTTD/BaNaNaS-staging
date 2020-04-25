@@ -8,3 +8,5 @@ compatibility:
 - name: "master"
   conditions:
   - ">= 1.7.0"
+
+description: "This is in fact not the latest; that is 0.6.0 ofc!"
