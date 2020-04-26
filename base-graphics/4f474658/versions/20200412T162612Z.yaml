@@ -9,4 +9,7 @@ compatibility:
   conditions:
   - ">= 1.7.0"
 
-description: "This is in fact not the latest; that is 0.6.0 ofc!"
+description: |-
+  This is in fact not the latest; that is 0.6.0 ofc!
+
+  I would like to say I am sorry, but this is staging .. ;)
