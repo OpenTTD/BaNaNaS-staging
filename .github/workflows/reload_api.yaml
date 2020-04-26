@@ -13,7 +13,6 @@ jobs:
     steps:
     - name: Reload API database
       run: |
-        echo "${{ github.actor }}"
         aws lambda invoke --region ${{ secrets.AWS_REGION }} --function-name "${{ secrets.API_FUNCTION_NAME }}" --payload='{"secret":"${{ secrets.API_RELOAD_SECRET }}"}' output.txt
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.API_AWS_ACCESS_KEY_ID }}
