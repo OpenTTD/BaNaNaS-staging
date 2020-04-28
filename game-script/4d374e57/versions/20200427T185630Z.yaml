@@ -4,5 +4,9 @@ upload-date: 2020-04-27T18:56:30Z
 md5sum-partial: "a85c768e"
 filesize: 9149
 availability: "new-games"
+compatibility:
+- name: "master"
+  conditions:
+  - ">= 1.5.0"
 
 name: "New World Disorder"
