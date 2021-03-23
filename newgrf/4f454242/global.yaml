@@ -1,6 +1,6 @@
-name: "Austrian Trains Test"
+name: "Austrian Trains CLI Test"
 description: |-
   CLI Update Test
   .fsdfnfgdfigdfg
-url: "https://openttd.org"
+url: "https://github.com/spnda/bananas-cli"
 tags: []
