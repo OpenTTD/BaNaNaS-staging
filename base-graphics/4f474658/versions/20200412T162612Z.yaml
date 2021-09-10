@@ -8,6 +8,9 @@ compatibility:
 - name: "vanilla"
   conditions:
   - ">= 1.7.0"
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0"
 
 description: |-
   This is in fact not the latest; that is 0.6.0 ofc!

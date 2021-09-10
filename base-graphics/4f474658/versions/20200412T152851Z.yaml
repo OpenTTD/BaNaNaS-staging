@@ -4,3 +4,7 @@ upload-date: 2020-04-12T15:28:51Z
 md5sum-partial: "506011e9"
 filesize: 3537399
 availability: "savegames-only"
+compatibility:
+- name: "vanilla"
+  conditions:
+  - ">= 0.0"

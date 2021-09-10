@@ -4,3 +4,7 @@ upload-date: 2021-07-02T13:58:41Z
 md5sum-partial: "ddd2837e"
 filesize: 3535239
 availability: "new-games"
+compatibility:
+- name: "jgrpp"
+  conditions:
+  - ">= 0.0"
