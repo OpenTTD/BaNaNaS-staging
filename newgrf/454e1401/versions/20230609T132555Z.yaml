@@ -1,0 +1,11 @@
+version: "1"
+license: "Custom"
+upload-date: 2023-06-09T13:25:55Z
+md5sum-partial: "211fdb32"
+classification:
+  set: "rail-station"
+  palette: "8bpp"
+  has-high-res: false
+  has-sound-effects: false
+filesize: 64850
+availability: "new-games"
